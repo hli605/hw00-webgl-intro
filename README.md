@@ -2,7 +2,7 @@
 
 Description:
 I implemented the dat.gui.
-I used fractal brownian motion as the noise function to paint procedural color on geometries. Also, the fbm moves over time.
+I used fractal brownian motion as the noise function to paint procedural color on all geometries. Also, the fbm moves over time.
 The geometries are changing size as well as changing position over time.
 
 Screenshot:
